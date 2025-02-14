@@ -31,14 +31,16 @@ Now your AI-powered resume is ready! 🚀
 
 <img src="screenshot%20-%20page1.png" width="400" height="700">
 <br>
-<img src="screenshot%20-%20page2.png" width="800">
+<img src="screenshot%20-%20page1-2.png" width="700">
 <br>
-<img src="screenshot%20-%20page3-1.png" width="800">
+<img src="screenshot%20-%20page2.png" width="700">
 <br>
-<img src="screenshot%20-%20page3%20-%202.png" width="800">
+<img src="screenshot%20-%20page3-1.png" width="700">
 <br>
-<img src="screenshot%20-%20page3%20-%203.png" width="800">
+<img src="screenshot%20-%20page3%20-%202.png" width="700">
 <br>
-<img src="screenshot%20-%20page4.png" width="800">
+<img src="screenshot%20-%20page3%20-%203.png" width="700">
+<br>
+<img src="screenshot%20-%20page4.png" width="700">
 <br>
 <img src="screesnshot%20-%20page5.png" width="800">
